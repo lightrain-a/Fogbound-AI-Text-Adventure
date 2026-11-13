@@ -1,0 +1,17 @@
+{
+  "runs": [
+    {
+      "requests": 12,
+      "total_tokens": 7988,
+      "complete": true
+    },
+    {
+      "requests": 12,
+      "total_tokens": 6599,
+      "complete": true
+    }
+  ],
+  "total_requests": 24,
+  "total_tokens": 14587,
+  "note": "Aggregated API usage from two bounded real trials; not a Credits billing statement."
+}

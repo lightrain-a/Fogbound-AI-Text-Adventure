@@ -1,0 +1,50 @@
+{
+  "checks": [
+    {
+      "name": "title",
+      "passed": true
+    },
+    {
+      "name": "initial_inventory",
+      "passed": true
+    },
+    {
+      "name": "initial_buttons",
+      "passed": true
+    },
+    {
+      "name": "no_horizontal_overflow_desktop",
+      "passed": true
+    },
+    {
+      "name": "save_confirmation",
+      "passed": true
+    },
+    {
+      "name": "saved_game_loaded",
+      "passed": true
+    },
+    {
+      "name": "model_output_rendered_as_text",
+      "passed": true
+    },
+    {
+      "name": "no_horizontal_overflow_mobile",
+      "passed": true
+    },
+    {
+      "name": "no_javascript_errors",
+      "passed": true
+    },
+    {
+      "name": "browser_has_no_api_key",
+      "passed": true
+    },
+    {
+      "name": "csrf_rejection",
+      "passed": true
+    }
+  ],
+  "all_passed": true,
+  "api_calls_made": 0
+}
